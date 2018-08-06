@@ -1,4 +1,4 @@
-# koa-static
+# koa-static-prefix
 
 ## base on koa-static add 'prefix path'
 
@@ -11,6 +11,8 @@
 [![Downloads][downloads-image]][downloads-url]
 
  Koa static file serving middleware, wrapper for [`koa-send`](https://github.com/koajs/send).
+
+ addr: https://github.com/zhoushirong/koa-staitc-prefix.git
 
 ## Installation
 
